@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2024-09-03 23:28:38 -0500
+categories: jekyll update
+---
+Esta pagian es mi primera version de mi `portal`. 
+
+Segunda `prueba` ojala funcione.
+
+
+
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+
+Esta seccion es un bloque 
+resaltado en mi post.
+
+{% endhighlight %}
+
+Si necesitas informacion de los productos de [Microsoft][ref01] visita la pagina bandido. La empresa [IBM][ref02] tiene productos interesante. El portal [Amazon][ref03] ofrece mejores productos bandido.
+
+
+
+[ref01]: https://www.microsoft.com/es-pe
+[ref02]:  https://www.ibm.com/mx-es
+[ref04]: https://www.amazon.com/-/es/
