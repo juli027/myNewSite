@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Esta pagian es mi primera version de mi `portal`. 
 
-Segunda `prueba` ojala funcione
+Segunda `prueba` ojala funcione.
 
 
 
