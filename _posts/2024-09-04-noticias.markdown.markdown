@@ -19,4 +19,4 @@ Si necesitas informacion de los productos de [Microsoft][ref01] visita la pagina
 
 [ref01]: https://www.microsoft.com/es-pe
 [ref02]:  https://www.ibm.com/mx-es
-[ref03]: https://www.amazon.com/-/es
+[ref03]: https://www.amazon.com/-/es/
