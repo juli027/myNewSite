@@ -20,9 +20,9 @@ resaltado en mi post.
 
 {% endhighlight %}
 
-Si necesitas informacion de los productos de [Microsfot][ref01] visita la pagina bandido. La empresa [IBMM][ref02] tiene productos interesante. El portal [Amazon][ref03] ofrece mejores productos bandido.
+Si necesitas informacion de los productos de [Microsoft][ref01] visita la pagina bandido. La empresa [IBM][ref02] tiene productos interesante. El portal [Amazon][ref03] ofrece mejores productos bandido.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
 
 [ref01]: https://www.microsoft.com/es-pe
 [ref02]:  https://www.ibm.com/mx-es
